@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Welcome to Unity Community Blog!
 image: 
 ---
 
